@@ -18,6 +18,6 @@ class CustomFooter: UIView {
     override func draw(_ rect: CGRect) {
         // Drawing code
     }
-    */
+    *///
 
 }
