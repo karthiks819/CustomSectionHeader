@@ -1,2 +1,1 @@
 # CustomSectionHeader
-Checking Git
